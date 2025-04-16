@@ -30,6 +30,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php">
 <img alt="Static Badge" src="https://img.shields.io/badge/Symfony-white?style=for-the-badge&logo=symfony&logoColor=black">
 <br>
+<br>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maelle17200&show_icons=true&locale=en&layout=compact" alt="maelle17200" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maelle17200&show_icons=true&locale=en" alt="maelle17200" /></p>
+<br>
 <br>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtZm5ma29yNDFqeDZsa2p2ZXR4NjU3cHdhZmZ4ZzFqcmk5anByNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUWU0cZbKgGyHfTgCb/giphy.gif">
 

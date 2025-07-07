@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJyYmZxZGJlZm55MzdqY3h6eGc5dHJyamF6eWNqZWd6d3kzNWoydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUWU0cZbKgGyHfTgCb/giphy.gif"  />
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBmMXd2bzNraWxqazBpcmttNWo0dmsxbXk4eWd2bmI2NHZjeHFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuhBsk15WfPqw/giphy.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<img align="left" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkM3psdWsxOW5oYjd6aW1iaDg0aGI5bmgxZnhidmVhaXdoY2w5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif"  />
+<img align="left" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkM3psdWsxOW5oYjd6aW1iaDg0aGI5bmgxZnhidmVhaXdoY2w5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif"  />
 
 ###
 
@@ -76,11 +76,15 @@
 
 ###
 
-<h3 align="center">🔮 Mes réseaux sociaux</h3>
+<br clear="both">
+
+<h3 align="left">🔮 Mes réseaux sociaux</h3>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="left">
   <a href="https://www.instagram.com/maelle.azl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -103,7 +107,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBmMXd2bzNraWxqazBpcmttNWo0dmsxbXk4eWd2bmI2NHZjeHFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuhBsk15WfPqw/giphy.gif"  />
+  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJyYmZxZGJlZm55MzdqY3h6eGc5dHJyamF6eWNqZWd6d3kzNWoydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUWU0cZbKgGyHfTgCb/giphy.gif"  />
 </div>
 
 ###

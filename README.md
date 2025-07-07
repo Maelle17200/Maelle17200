@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp0c2c0YmtxMW5zNnJqd3BzZjUyMmh1NzdtOHFzY3NtNnQ0bjc1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
+  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJyYmZxZGJlZm55MzdqY3h6eGc5dHJyamF6eWNqZWd6d3kzNWoydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUWU0cZbKgGyHfTgCb/giphy.gif"  />
 </div>
 
 ###
@@ -8,15 +8,15 @@
 
 ###
 
-<p align="left">☕ Hello ! Je suis en formation de développeuse web et web mobile sur le campus en ligne de l’ENI. En ce moment, je plonge à fond dans Symfony et j’en profite pour renforcer mes bases en programmation et en développement web 💻<br>Passionnée et curieuse, j’adore aussi tout ce qui touche aux jeux vidéo 🎮 et à la modélisation 3D (👋 coucou Blockbench 🧱)<br>Mon but ? Devenir développeuse full stack 🚀 et continuer mes études pour aller encore plus loin dans ce que j’aime faire ! 🌟</p>
+<p align="left">☕ Je suis en formation de développeuse web et web mobile sur le campus en ligne de l’ENI. En ce moment, je plonge à fond dans Symfony et j’en profite pour renforcer mes bases en programmation et en développement web 💻<br>Passionnée et curieuse, j’adore aussi tout ce qui touche aux jeux vidéo 🎮 et à la modélisation 3D (👋 coucou Blockbench 🧱)<br>Mon but ? Devenir développeuse full stack 🚀 et continuer mes études pour aller encore plus loin dans ce que j’aime faire ! 🌟</p>
 
 ###
 
-<img align="left" height="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkM3psdWsxOW5oYjd6aW1iaDg0aGI5bmgxZnhidmVhaXdoY2w5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif"  />
+<img align="left" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkM3psdWsxOW5oYjd6aW1iaDg0aGI5bmgxZnhidmVhaXdoY2w5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif"  />
 
 ###
 
-<h2 align="center">📚 Language</h2>
+<h3 align="center">📚 Language</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">🛠️ Outils</h2>
+<h3 align="center">🛠️ Outils</h3>
 
 ###
 
@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://tenor.com/fr/view/trafalgar-law-law-one-piece-law-one-piece-trafalgar-gif-23238150"  />
+  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBmMXd2bzNraWxqazBpcmttNWo0dmsxbXk4eWd2bmI2NHZjeHFxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuhBsk15WfPqw/giphy.gif"  />
 </div>
 
 ###

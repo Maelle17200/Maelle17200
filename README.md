@@ -1,39 +1,113 @@
-<h1 align=center> Hi there, I'm Maëlle 👋</h1>
-<table align="center"> 
-    <tr>
-    <td>
-        <img align="middle" src="https://github.com/Maelle17200/Maelle17200/blob/master/img/cover.jpg" alt="Maëlle Auzel | Avatar" width="120px"/>
-    </a>
-    </td><td>
-    <ul>
-    <li>👋 Hello, I'm Maëlle</li>
-    <li>👔 Student at ENI School</li>
-    <li>👨‍💻 I'm a Junior FullStack Web Developer</li>
-    </ul>
-    </td></tr>
-</table>
-
-<h3 align="center">💻 - Languages and Tools</h3>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql&logoColor=black">
-<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logoColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-gray?style=for-the-badge&logo=springboot">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaSe-orange?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular">
-<br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.JS-gray?style=for-the-badge&logo=nodedotjs">
-<img alt="Static Badge" src="https://img.shields.io/badge/NoSQL-black?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php">
-<img alt="Static Badge" src="https://img.shields.io/badge/Symfony-white?style=for-the-badge&logo=symfony&logoColor=black">
-<br>
-<br>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maelle17200&show_icons=true&locale=en&layout=compact" alt="maelle17200" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maelle17200&show_icons=true&locale=en" alt="maelle17200" /></p>
-<br>
-<br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZtZm5ma29yNDFqeDZsa2p2ZXR4NjU3cHdhZmZ4ZzFqcmk5anByNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AUWU0cZbKgGyHfTgCb/giphy.gif">
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnp0c2c0YmtxMW5zNnJqd3BzZjUyMmh1NzdtOHFzY3NtNnQ0bjc1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"  />
+</div>
 
+###
+
+<h1 align="center">Salut 👋 Je m'appelle Maëlle ⚡</h1>
+
+###
+
+<p align="left">☕ Hello ! Je suis en formation de développeuse web et web mobile sur le campus en ligne de l’ENI. En ce moment, je plonge à fond dans Symfony et j’en profite pour renforcer mes bases en programmation et en développement web 💻<br>Passionnée et curieuse, j’adore aussi tout ce qui touche aux jeux vidéo 🎮 et à la modélisation 3D (👋 coucou Blockbench 🧱)<br>Mon but ? Devenir développeuse full stack 🚀 et continuer mes études pour aller encore plus loin dans ce que j’aime faire ! 🌟</p>
+
+###
+
+<img align="left" height="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRkM3psdWsxOW5oYjd6aW1iaDg0aGI5bmgxZnhidmVhaXdoY2w5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yHZXBCWDUGDNLothkL/giphy.gif"  />
+
+###
+
+<h2 align="center">📚 Language</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
+</div>
+
+###
+
+<h2 align="center">🛠️ Outils</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<h3 align="center">🔮 Mes réseaux sociaux</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/maelle.azl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="etalya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/maelle-auzel/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maelle17200&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=fr&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maelle17200&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="350" src="https://tenor.com/fr/view/trafalgar-law-law-one-piece-law-one-piece-trafalgar-gif-23238150"  />
+</div>
+
+###
+
+<h6 align="center">👋 Bye Bye 🦉</h6>
+
+###
